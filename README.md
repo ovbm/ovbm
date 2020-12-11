@@ -1,7 +1,5 @@
 ### Hi 👋
 
-<a href="https://github.com/ovbm"><img alt="My Git Stats" src="https://github-readme-stats.vercel.app/api/?username=ovbm" align="right" height="150" /></a>
-
 - 🧜 Currently Web Developer at Republik Magazine
 - 🐛 Previously Co-founder of climate tech start up Tomorrow
 - 🐙 He / Him
